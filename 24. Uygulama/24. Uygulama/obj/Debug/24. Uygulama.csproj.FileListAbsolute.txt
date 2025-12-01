@@ -1,0 +1,10 @@
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\24. Uygulama\24. Uygulama\obj\Debug\24. Uygulama.csproj.AssemblyReference.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\24. Uygulama\24. Uygulama\obj\Debug\_24.Uygulama.Form1.resources
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\24. Uygulama\24. Uygulama\obj\Debug\_24.Uygulama.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\24. Uygulama\24. Uygulama\obj\Debug\24. Uygulama.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\24. Uygulama\24. Uygulama\obj\Debug\24. Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\24. Uygulama\24. Uygulama\bin\Debug\_24.Uygulama.exe.config
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\24. Uygulama\24. Uygulama\bin\Debug\_24.Uygulama.exe
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\24. Uygulama\24. Uygulama\bin\Debug\_24.Uygulama.pdb
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\24. Uygulama\24. Uygulama\obj\Debug\_24.Uygulama.exe
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\24. Uygulama\24. Uygulama\obj\Debug\_24.Uygulama.pdb
