@@ -1,0 +1,10 @@
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\25.Uygulama\25.Uygulama\bin\Debug\25.Uygulama.exe.config
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\25.Uygulama\25.Uygulama\bin\Debug\25.Uygulama.exe
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\25.Uygulama\25.Uygulama\bin\Debug\25.Uygulama.pdb
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\25.Uygulama\25.Uygulama\obj\Debug\25.Uygulama.csproj.AssemblyReference.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\25.Uygulama\25.Uygulama\obj\Debug\_25.Uygulama.Form1.resources
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\25.Uygulama\25.Uygulama\obj\Debug\_25.Uygulama.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\25.Uygulama\25.Uygulama\obj\Debug\25.Uygulama.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\25.Uygulama\25.Uygulama\obj\Debug\25.Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\25.Uygulama\25.Uygulama\obj\Debug\25.Uygulama.exe
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\25.Uygulama\25.Uygulama\obj\Debug\25.Uygulama.pdb
