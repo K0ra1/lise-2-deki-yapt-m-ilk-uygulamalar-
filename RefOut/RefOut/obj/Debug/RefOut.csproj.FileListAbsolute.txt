@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\RefOut\RefOut\bin\Debug\RefOut.exe.config
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\RefOut\RefOut\bin\Debug\RefOut.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\RefOut\RefOut\bin\Debug\RefOut.pdb
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\RefOut\RefOut\obj\Debug\RefOut.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\RefOut\RefOut\obj\Debug\RefOut.Form1.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\RefOut\RefOut\obj\Debug\RefOut.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\RefOut\RefOut\obj\Debug\RefOut.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\RefOut\RefOut\obj\Debug\RefOut.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\RefOut\RefOut\obj\Debug\RefOut.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\RefOut\RefOut\obj\Debug\RefOut.pdb
