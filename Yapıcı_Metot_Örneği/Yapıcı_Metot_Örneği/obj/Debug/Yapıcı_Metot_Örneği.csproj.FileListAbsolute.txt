@@ -1,0 +1,5 @@
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Yapıcı_Metot_Örneği\Yapıcı_Metot_Örneği\obj\Debug\Yapıcı_Metot_Örneği.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Yapıcı_Metot_Örneği\Yapıcı_Metot_Örneği\obj\Debug\Yapıcı_Metot_Örneği.Form1.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Yapıcı_Metot_Örneği\Yapıcı_Metot_Örneği\obj\Debug\Yapıcı_Metot_Örneği.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Yapıcı_Metot_Örneği\Yapıcı_Metot_Örneği\obj\Debug\Yapıcı_Metot_Örneği.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Yapıcı_Metot_Örneği\Yapıcı_Metot_Örneği\obj\Debug\Yapıcı_Metot_Örneği.csproj.CoreCompileInputs.cache
