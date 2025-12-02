@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\classnesne\classnesne\bin\Debug\classnesne.exe.config
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\classnesne\classnesne\bin\Debug\classnesne.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\classnesne\classnesne\bin\Debug\classnesne.pdb
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\classnesne\classnesne\obj\Debug\classnesne.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\classnesne\classnesne\obj\Debug\classnesne.Form1.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\classnesne\classnesne\obj\Debug\classnesne.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\classnesne\classnesne\obj\Debug\classnesne.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\classnesne\classnesne\obj\Debug\classnesne.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\classnesne\classnesne\obj\Debug\classnesne.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\classnesne\classnesne\obj\Debug\classnesne.pdb
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\classnesne\classnesne\obj\Debug\classnesne.exe.config
