@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Buyuk_Olanı_Bul\Buyuk_Olanı_Bul\bin\Debug\Buyuk_Olanı_Bul.exe.config
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Buyuk_Olanı_Bul\Buyuk_Olanı_Bul\bin\Debug\Buyuk_Olanı_Bul.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Buyuk_Olanı_Bul\Buyuk_Olanı_Bul\bin\Debug\Buyuk_Olanı_Bul.pdb
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Buyuk_Olanı_Bul\Buyuk_Olanı_Bul\obj\Debug\Buyuk_Olanı_Bul.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Buyuk_Olanı_Bul\Buyuk_Olanı_Bul\obj\Debug\Buyuk_Olanı_Bul.Form1.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Buyuk_Olanı_Bul\Buyuk_Olanı_Bul\obj\Debug\Buyuk_Olanı_Bul.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Buyuk_Olanı_Bul\Buyuk_Olanı_Bul\obj\Debug\Buyuk_Olanı_Bul.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Buyuk_Olanı_Bul\Buyuk_Olanı_Bul\obj\Debug\Buyuk_Olanı_Bul.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Buyuk_Olanı_Bul\Buyuk_Olanı_Bul\obj\Debug\Buyuk_Olanı_Bul.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Buyuk_Olanı_Bul\Buyuk_Olanı_Bul\obj\Debug\Buyuk_Olanı_Bul.pdb
