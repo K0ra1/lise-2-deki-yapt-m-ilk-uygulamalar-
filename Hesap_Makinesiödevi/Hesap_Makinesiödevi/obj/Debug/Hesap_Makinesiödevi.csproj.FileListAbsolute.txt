@@ -1,0 +1,22 @@
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\Hesap_Makinesiödevi\Hesap_Makinesiödevi\bin\Debug\Hesap_Makinesiödevi.exe.config
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\Hesap_Makinesiödevi\Hesap_Makinesiödevi\bin\Debug\Hesap_Makinesiödevi.exe
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\Hesap_Makinesiödevi\Hesap_Makinesiödevi\bin\Debug\Hesap_Makinesiödevi.pdb
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.csproj.AssemblyReference.cache
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.Form1.resources
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.Properties.Resources.resources
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.csproj.GenerateResource.cache
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.exe
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.pdb
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.exe.config
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Hesap_Makinesiödevi\Hesap_Makinesiödevi\bin\Debug\Hesap_Makinesiödevi.exe.config
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Hesap_Makinesiödevi\Hesap_Makinesiödevi\bin\Debug\Hesap_Makinesiödevi.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Hesap_Makinesiödevi\Hesap_Makinesiödevi\bin\Debug\Hesap_Makinesiödevi.pdb
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.exe.config
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.Form1.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Hesap_Makinesiödevi\Hesap_Makinesiödevi\obj\Debug\Hesap_Makinesiödevi.pdb
