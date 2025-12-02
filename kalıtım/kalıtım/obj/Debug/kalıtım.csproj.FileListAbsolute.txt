@@ -1,0 +1,5 @@
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\kalıtım\kalıtım\obj\Debug\kalıtım.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\kalıtım\kalıtım\obj\Debug\kalıtım.Form1.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\kalıtım\kalıtım\obj\Debug\kalıtım.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\kalıtım\kalıtım\obj\Debug\kalıtım.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\kalıtım\kalıtım\obj\Debug\kalıtım.csproj.CoreCompileInputs.cache
