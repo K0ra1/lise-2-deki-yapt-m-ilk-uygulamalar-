@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Enum ,\Enum ,\bin\Debug\Enum ,.exe.config
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Enum ,\Enum ,\bin\Debug\Enum ,.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Enum ,\Enum ,\bin\Debug\Enum ,.pdb
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Enum ,\Enum ,\obj\Debug\Enum ,.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Enum ,\Enum ,\obj\Debug\Enum__.Form1.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Enum ,\Enum ,\obj\Debug\Enum__.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Enum ,\Enum ,\obj\Debug\Enum ,.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Enum ,\Enum ,\obj\Debug\Enum ,.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Enum ,\Enum ,\obj\Debug\Enum ,.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Enum ,\Enum ,\obj\Debug\Enum ,.pdb
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\Enum ,\Enum ,\obj\Debug\Enum ,.exe.config
