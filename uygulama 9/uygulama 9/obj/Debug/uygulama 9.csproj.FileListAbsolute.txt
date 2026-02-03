@@ -1,0 +1,11 @@
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\uygulama 9\uygulama 9\bin\Debug\uygulama 9.exe.config
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\uygulama 9\uygulama 9\bin\Debug\uygulama 9.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\uygulama 9\uygulama 9\bin\Debug\uygulama 9.pdb
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\uygulama 9\uygulama 9\obj\Debug\uygulama 9.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\uygulama 9\uygulama 9\obj\Debug\uygulama_9.Form1.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\uygulama 9\uygulama 9\obj\Debug\uygulama_9.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\uygulama 9\uygulama 9\obj\Debug\uygulama 9.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\uygulama 9\uygulama 9\obj\Debug\uygulama 9.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\uygulama 9\uygulama 9\obj\Debug\uygulama 9.exe
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\uygulama 9\uygulama 9\obj\Debug\uygulama 9.pdb
+C:\Users\FMTAL\Desktop\Koray Toprak Korkmaz 4850 10B\uygulama 9\uygulama 9\obj\Debug\uygulama 9.exe.config
