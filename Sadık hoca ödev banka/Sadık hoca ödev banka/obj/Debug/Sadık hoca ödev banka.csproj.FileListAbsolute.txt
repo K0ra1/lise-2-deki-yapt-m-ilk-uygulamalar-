@@ -1,0 +1,11 @@
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\Sadık hoca ödev banka\Sadık hoca ödev banka\bin\Debug\Sadık hoca ödev banka.exe.config
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\Sadık hoca ödev banka\Sadık hoca ödev banka\bin\Debug\Sadık hoca ödev banka.exe
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\Sadık hoca ödev banka\Sadık hoca ödev banka\bin\Debug\Sadık hoca ödev banka.pdb
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\Sadık hoca ödev banka\Sadık hoca ödev banka\obj\Debug\Sadık hoca ödev banka.csproj.AssemblyReference.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\Sadık hoca ödev banka\Sadık hoca ödev banka\obj\Debug\Sadık_hoca_ödev_banka.Form1.resources
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\Sadık hoca ödev banka\Sadık hoca ödev banka\obj\Debug\Sadık_hoca_ödev_banka.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\Sadık hoca ödev banka\Sadık hoca ödev banka\obj\Debug\Sadık hoca ödev banka.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\Sadık hoca ödev banka\Sadık hoca ödev banka\obj\Debug\Sadık hoca ödev banka.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\Sadık hoca ödev banka\Sadık hoca ödev banka\obj\Debug\Sadık hoca ödev banka.exe
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\Sadık hoca ödev banka\Sadık hoca ödev banka\obj\Debug\Sadık hoca ödev banka.pdb
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\Sadık hoca ödev banka\Sadık hoca ödev banka\obj\Debug\Sadık hoca ödev banka.exe.config
