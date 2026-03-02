@@ -38,15 +38,15 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
             this.listBox1 = new System.Windows.Forms.ListBox();
             this.listBox2 = new System.Windows.Forms.ListBox();
             this.lblM1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.lblM2 = new System.Windows.Forms.Label();
-            this.lblM3 = new System.Windows.Forms.Label();
-            this.lblM4 = new System.Windows.Forms.Label();
             this.lblM5 = new System.Windows.Forms.Label();
+            this.lblM4 = new System.Windows.Forms.Label();
+            this.lblM3 = new System.Windows.Forms.Label();
+            this.lblM2 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -112,38 +112,38 @@
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(87, 188);
+            this.textBox1.Location = new System.Drawing.Point(87, 37);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 5;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(87, 34);
+            this.textBox2.Location = new System.Drawing.Point(87, 93);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 6;
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(87, 85);
+            this.textBox3.Location = new System.Drawing.Point(87, 137);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(100, 20);
             this.textBox3.TabIndex = 7;
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(87, 134);
+            this.textBox4.Location = new System.Drawing.Point(87, 191);
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(100, 20);
             this.textBox4.TabIndex = 8;
             // 
-            // textBox6
+            // textBox5
             // 
-            this.textBox6.Location = new System.Drawing.Point(87, 244);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(100, 20);
-            this.textBox6.TabIndex = 10;
+            this.textBox5.Location = new System.Drawing.Point(87, 244);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(100, 20);
+            this.textBox5.TabIndex = 10;
             // 
             // listBox1
             // 
@@ -175,16 +175,16 @@
             this.groupBox1.Controls.Add(this.lblM4);
             this.groupBox1.Controls.Add(this.lblM3);
             this.groupBox1.Controls.Add(this.lblM2);
+            this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Controls.Add(this.textBox4);
             this.groupBox1.Controls.Add(this.lblM1);
             this.groupBox1.Controls.Add(this.button2);
             this.groupBox1.Controls.Add(this.button3);
             this.groupBox1.Controls.Add(this.button4);
-            this.groupBox1.Controls.Add(this.textBox6);
+            this.groupBox1.Controls.Add(this.textBox5);
             this.groupBox1.Controls.Add(this.button5);
             this.groupBox1.Controls.Add(this.button6);
             this.groupBox1.Controls.Add(this.textBox3);
-            this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Controls.Add(this.textBox2);
             this.groupBox1.Location = new System.Drawing.Point(473, 47);
             this.groupBox1.Name = "groupBox1";
@@ -193,21 +193,13 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Sıradakini Çağir ";
             // 
-            // lblM2
+            // lblM5
             // 
-            this.lblM2.AutoSize = true;
-            this.lblM2.Location = new System.Drawing.Point(26, 90);
-            this.lblM2.Name = "lblM2";
-            this.lblM2.Size = new System.Drawing.Size(0, 13);
-            this.lblM2.TabIndex = 14;
-            // 
-            // lblM3
-            // 
-            this.lblM3.AutoSize = true;
-            this.lblM3.Location = new System.Drawing.Point(26, 137);
-            this.lblM3.Name = "lblM3";
-            this.lblM3.Size = new System.Drawing.Size(0, 13);
-            this.lblM3.TabIndex = 14;
+            this.lblM5.AutoSize = true;
+            this.lblM5.Location = new System.Drawing.Point(26, 243);
+            this.lblM5.Name = "lblM5";
+            this.lblM5.Size = new System.Drawing.Size(0, 13);
+            this.lblM5.TabIndex = 14;
             // 
             // lblM4
             // 
@@ -217,13 +209,21 @@
             this.lblM4.Size = new System.Drawing.Size(0, 13);
             this.lblM4.TabIndex = 14;
             // 
-            // lblM5
+            // lblM3
             // 
-            this.lblM5.AutoSize = true;
-            this.lblM5.Location = new System.Drawing.Point(26, 243);
-            this.lblM5.Name = "lblM5";
-            this.lblM5.Size = new System.Drawing.Size(0, 13);
-            this.lblM5.TabIndex = 14;
+            this.lblM3.AutoSize = true;
+            this.lblM3.Location = new System.Drawing.Point(26, 137);
+            this.lblM3.Name = "lblM3";
+            this.lblM3.Size = new System.Drawing.Size(0, 13);
+            this.lblM3.TabIndex = 14;
+            // 
+            // lblM2
+            // 
+            this.lblM2.AutoSize = true;
+            this.lblM2.Location = new System.Drawing.Point(26, 90);
+            this.lblM2.Name = "lblM2";
+            this.lblM2.Size = new System.Drawing.Size(0, 13);
+            this.lblM2.TabIndex = 14;
             // 
             // Form1
             // 
@@ -236,7 +236,6 @@
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
@@ -255,7 +254,7 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.ListBox listBox2;
         private System.Windows.Forms.Label lblM1;
