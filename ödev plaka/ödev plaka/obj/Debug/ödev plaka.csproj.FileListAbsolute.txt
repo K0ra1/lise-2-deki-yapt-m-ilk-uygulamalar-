@@ -1,0 +1,10 @@
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\ödev plaka\ödev plaka\bin\Debug\ödev plaka.exe.config
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\ödev plaka\ödev plaka\bin\Debug\ödev plaka.exe
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\ödev plaka\ödev plaka\bin\Debug\ödev plaka.pdb
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\ödev plaka\ödev plaka\obj\Debug\ödev plaka.csproj.AssemblyReference.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\ödev plaka\ödev plaka\obj\Debug\ödev_plaka.Form1.resources
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\ödev plaka\ödev plaka\obj\Debug\ödev_plaka.Properties.Resources.resources
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\ödev plaka\ödev plaka\obj\Debug\ödev plaka.csproj.GenerateResource.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\ödev plaka\ödev plaka\obj\Debug\ödev plaka.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\ödev plaka\ödev plaka\obj\Debug\ödev plaka.exe
+C:\Users\Ferhat\Desktop\Koray Okul Kodlama Ödev C#\ödev plaka\ödev plaka\obj\Debug\ödev plaka.pdb
